@@ -23,7 +23,7 @@ A csv file containing the postcodes of the grid points and the latitude and long
 ## Example
 Results obtained with a 10x10 km^2 grid are given here as an example.
 * Output in Postcodes_grid.csv
-* Notebook available [here] (https://nbviewer.jupyter.org/github/ganetin/UK_postcodes/blob/master/Postcodes_map.ipynb) and map [here] (Postcodes_map.html)
+* Notebook available [here] (https://nbviewer.jupyter.org/github/ganetin/UK_postcodes/blob/master/Postcodes_map.ipynb)
 
 ## License
 MIT License
