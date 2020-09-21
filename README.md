@@ -1,5 +1,5 @@
 # About
-Obtain and visualize a list of postcodes for the whole UK.
+Generates and visualizes a list of postcodes covering the whole UK.
 
 * Postcodes_grid.py: obtains a list (in csv format) of postcodes covering the whole UK based on a EUROSTAT grid of given precision. The better the precision the larger the number of postcodes.
 * Postcodes_map.ipynb: shows a map of the obtained postcodes vs. the EUROSTAT grid
