@@ -21,7 +21,7 @@ Postcodes_map.ipynb:
 A csv file containing the postcodes of the grid points and the latitude and longitude of these points
 
 ## Example
-Results obtained with a 10x10 km^2 grid are given here as an example.
+Results obtained with a 5x5 km^2 grid are given here as an example.
 * Output in Postcodes_grid.csv
 * Notebook available [here](https://nbviewer.jupyter.org/github/ganetin/UK_postcodes/blob/master/Postcodes_map.ipynb)
 

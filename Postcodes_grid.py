@@ -10,7 +10,7 @@ import csv
 #------------------------------------#
 # Reads the GEOSTAT grid, filters to the UK only, projects the data and obtains the latitude/longitude
 #------------------------------------#
-grid=gpd.read_file("grid_10km_point.gpkg") # change here the filename for the grid of desired precision
+grid=gpd.read_file("grid_5km_point.gpkg") # change here the filename for the grid of desired precision
 grid_UK=grid[grid["CNTR_ID"]=="UK"]
 grid_projected=grid_UK.to_crs(epsg=4326)
 grid_projected['lon'] = grid_projected['geometry'].x
